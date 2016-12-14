@@ -30,6 +30,10 @@ h3 {
 #link-to-car-pics{
   text-align: center;
 }
+#pics{
+  max-width: 20%;
+  max-height: 10%;
+}
 /*img.resize{
   max-height: 100px;
   max-width: 50px;
