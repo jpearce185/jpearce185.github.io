@@ -1,15 +1,32 @@
-body {
+html{
   background-color: black;
 }
+#body-index {
+  margin: auto;
+  width: 95%;
+  background-color: white;
+  border: 5px solid cyan;
+}
+#body-pictures {
+  margin: auto;
+  width: 95%;
+  background-color: white;
+  border: 5px solid cyan;
+}
 #first-para {
+  margin:auto;
   color: black;
 }
-ul {
-  color: black;
+ul{
+  margin: auto;
 }
 h1 {
+  text-align: center;
   color: black;
 }
 h3 {
   color: black;
+}
+#link-to-car-pics{
+  text-align: center;
 }
