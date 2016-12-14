@@ -33,6 +33,10 @@ h3 {
 img{
   max-width: 50%;
 }
+#fb{
+  width: 30px;
+  height: 30px;
+}
 /*img.resize{
   max-height: 100px;
   max-width: 50px;
